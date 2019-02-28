@@ -1,6 +1,9 @@
 # SlideDeImagens
 Veja Como Criar um Aplicativo de Slide utilizando imagens.
 
+<b>Clique Aqui e Veja o vídeo do Tutorial:</b><br>
+https://youtu.be/rwSdOwxh1RU
+
 <b>Qualquer dúvida, comentario ou sugestão, coloque aqui ou entre em<br>contato comigo pelas redes sociais.</b>
 
 <h3>Links Importantes:</h3>
