@@ -2,7 +2,7 @@
 Veja como Abrir Vídeos do YouTube em seus Aplicativos!
 
 <b>Clique Aqui e Veja o vídeo do Tutorial:</b><br>
-https://youtu.be/PWZo7OvPHFA
+https://youtu.be/rwSdOwxh1RU
 
 <b>Qualquer dúvida, comentario ou sugestão, coloque aqui ou entre em<br>contato comigo pelas redes sociais.</b>
 
