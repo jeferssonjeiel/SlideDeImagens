@@ -1,5 +1,5 @@
 # SlideDeImagens
-Veja como Abrir Vídeos do YouTube em seus Aplicativos!
+Veja Como Criar um Aplicativo de Slide utilizando imagens.
 
 <b>Clique Aqui e Veja o vídeo do Tutorial:</b><br>
 https://youtu.be/rwSdOwxh1RU
